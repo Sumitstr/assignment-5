@@ -4,7 +4,7 @@
 - I am student of second year cse student.
 
 ## Profile Photo:-
-![Profile Photo](    )
+![Profile Photo](https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg )
 
 ## Education
 |Institution |Degree| Year  |
